@@ -1,0 +1,17 @@
+#information of the material
+space_group: Im_ 3m (229)
+ibrav: 3
+nat: 1
+number_atoms: 2
+density: 7.19 g/cm3
+atomic_weight: 51.9961 u
+#elastic constants
+350 67.8 101
+#lattice parameters and energies
+5.32190 -174.08897
+5.26820 -174.08695
+5.21440 -174.08343
+5.37570 -174.08961
+5.42950 -174.08901
+5.48320 -174.08729
+5.53700 -174.08456

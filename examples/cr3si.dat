@@ -1,0 +1,17 @@
+#information of the material
+space_group: Pm-3n (223)
+ibrav: 1
+nat: 8
+number_atoms: 1
+density: 6.45 g/cm3
+atomic_weight: 184.073 u
+#elastic constants
+416 98.7 129
+#lattice parameters and energies
+8.35845 -1063.91503318
+8.44462 -1063.92956349
+8.53908 -1063.93363197
+8.61696 -1063.92821931
+8.70313 -1063.91423089
+8.7893 -1063.89249891 
+8.87547 -1063.86379458
